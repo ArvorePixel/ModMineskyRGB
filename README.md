@@ -1,0 +1,2 @@
+-Esse mod é para NeoForge 26.1.2.109
+-Usando comando /skyrgb
